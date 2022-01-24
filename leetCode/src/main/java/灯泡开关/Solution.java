@@ -7,5 +7,6 @@ class Solution {
 
     public static void main(String[] args) {
         System.out.println(bulbSwitch(9));
+        System.out.println();
     }
 }
